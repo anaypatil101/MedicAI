@@ -182,18 +182,3 @@ for i, d in enumerate(source_documents, 1):
 
 ## ⚖️ Disclaimer
 This tool is for educational and reference purposes only. It does **not** provide medical advice, diagnosis, or treatment recommendations. Always consult a licensed healthcare professional for medical decisions.
-
-## ✅ Minimal Usage Recap
-```zsh
-python create_memory_for_llm.py            # build index (one time)
-streamlit run medibot.py                   # chat UI (needs GROQ_API_KEY)
-python connect_memory_with_llm.py          # CLI (needs HF_TOKEN)
-```
-
----
-Questions or want enhancements? Open an issue or extend the scripts directly. Enjoy building with RAG! 🧪
-
-
-
-
-
