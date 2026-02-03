@@ -51,7 +51,7 @@ def get_rag_chain():
 
 
 def main():
-    st.title("Ask Chatbot!")
+    st.title("Ask MedicAI!")
 
     if 'messages' not in st.session_state:
         st.session_state.messages = []
