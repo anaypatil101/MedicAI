@@ -15,6 +15,5 @@ __pycache__/
 # macOS
 .DS_Store
 
-# Vector stores
-vectorstore/
+# Raw source data (PDFs)
 data/
